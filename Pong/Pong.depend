@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1504026573 source:c:\users\amir\desktop\c++workspace\pong\main.cpp
+	"globals.h"
+
+1504025522 source:c:\users\amir\desktop\c++workspace\pong\player.cpp
+	"Player.h"
+
+1504025721 c:\users\amir\desktop\c++workspace\pong\player.h
+	<SDL.h>
+
+1502556929 source:c:\users\amir\desktop\c++workspace\pong\ball.cpp
+	"Ball.h"
+
+1504025728 c:\users\amir\desktop\c++workspace\pong\ball.h
+	<SDL_mixer.h>
+	"player.h"
+
+1504016914 c:\users\amir\desktop\c++workspace\pong\globals.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"player.h"
+	"ball.h"
+	"menu.h"
+	"Options.h"
+	"controls.h"
+	"credits.h"
+
+1502270965 c:\users\amir\desktop\c++workspace\pong\resource.rc
+
+1502271126 source:c:\users\amir\desktop\c++workspace\pong\resource.rc
+
+1504017939 source:c:\users\amir\desktop\c++workspace\pong\menu.cpp
+	"Menu.h"
+
+1502643437 c:\users\amir\desktop\c++workspace\pong\menu.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1502729354 source:c:\users\amir\desktop\c++workspace\pong\options.cpp
+	"Options.h"
+
+1502729138 c:\users\amir\desktop\c++workspace\pong\options.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1504019131 c:\users\amir\desktop\c++workspace\pong\controls.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1504025047 source:c:\users\amir\desktop\c++workspace\pong\controls.cpp
+	"Controls.h"
+
+1503252771 source:c:\users\amir\desktop\c++workspace\pong\credits.cpp
+	"Credits.h"
+
+1503252720 c:\users\amir\desktop\c++workspace\pong\credits.h
+	<ctime>
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1502556929 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\ball.cpp
+	"Ball.h"
+
+1504025728 c:\users\amir\desktop\aziz-all\c++workspace\pong\ball.h
+	<SDL_mixer.h>
+	"player.h"
+
+1504025721 c:\users\amir\desktop\aziz-all\c++workspace\pong\player.h
+	<SDL.h>
+
+1504025047 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\controls.cpp
+	"Controls.h"
+
+1504019131 c:\users\amir\desktop\aziz-all\c++workspace\pong\controls.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1525355947 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\credits.cpp
+	"Credits.h"
+
+1503252720 c:\users\amir\desktop\aziz-all\c++workspace\pong\credits.h
+	<ctime>
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1549702931 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\main.cpp
+	"globals.h"
+
+1549702978 c:\users\amir\desktop\aziz-all\c++workspace\pong\globals.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"player.h"
+	"ball.h"
+	"menu.h"
+	"Options.h"
+	"controls.h"
+	"credits.h"
+
+1502643437 c:\users\amir\desktop\aziz-all\c++workspace\pong\menu.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1502729138 c:\users\amir\desktop\aziz-all\c++workspace\pong\options.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1549701591 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\menu.cpp
+	"Menu.h"
+
+1549701608 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\options.cpp
+	"Options.h"
+
+1549701838 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\player.cpp
+	"Player.h"
+
+1502271126 source:c:\users\amir\desktop\aziz-all\c++workspace\pong\resource.rc
+
